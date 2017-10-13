@@ -1,5 +1,5 @@
 # temp-warning
-Command line tool that checks CPU temperature and warns if it's too high
+Command line tool that checks CPU temperature and warns if it's too high. Written in Python (3).
 
 # Usage
 
